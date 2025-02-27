@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cb783c14ae0a79f4fa832d605f261d3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WinnerText: {instanceID: 0}
+  - winnerpanel: {instanceID: 0}
+  - drawPanel: {instanceID: 0}
+  - xPlayerScoreText: {instanceID: 0}
+  - oPlayerScoreText: {instanceID: 0}
+  - xPlayerButton: {instanceID: 0}
+  - oPlayerButton: {instanceID: 0}
+  - DrawImage: {instanceID: 0}
+  - buttonclickAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
