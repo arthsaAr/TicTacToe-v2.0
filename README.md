@@ -13,7 +13,7 @@ Classic Tic-Tac-Toe game built with Unity and C# for Android devices.
 ## Download & Install
 
 **For Android Users:**
-1. Download the `.apk` file from [path]([https://github.com/arthsaAr/TicTacToe-v2.0/Setup](https://github.com/arthsaAr/TicTacToe-v2.0/tree/main/Setup))
+1. Download the `.apk` file from [path](https://github.com/arthsaAr/TicTacToe-v2.0/tree/main/Setup)
 2. Enable "Install from Unknown Sources" in Android settings
 3. Install and play!
 
