@@ -24,7 +24,7 @@ Launch the game and enjoy! Feel free to leave feedback or create a new issue.
 **For Developers:**
 ```bash
 git clone https://github.com/arthsaAr/TicTacToe-v2.0.git
-# Open in Unity and build for Android
+# Open in Unity(can be built for android)
 ```
 
 ## Tech Stack
